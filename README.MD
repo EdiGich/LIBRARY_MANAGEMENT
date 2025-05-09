@@ -70,6 +70,4 @@ The tables have got constraints (primary keys, foreign keys, NOT NULL, UNIQUE), 
 
 The Entity-Relationship Diagram visualizes the database schema, showing tables, columns, and relationships (1-to-many and many-to-many).
 
-```markdown
-er_diagram.png
-```
+![Entity Relationship Diagram](image.png)
